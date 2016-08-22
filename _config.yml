@@ -12,3 +12,7 @@ color:
     - '#BFBFBF'
     - '#FFFFFF'
 name: Autograph Designed
+navigation:
+  - name: About Us
+    id: 66abc294-8f6b-4b7a-bf92-f77e0deb93f9
+    type: content
