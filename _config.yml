@@ -1,4 +1,3 @@
-layout_spectrum: 0.8602331392467022
 typography_spectrum: 0.28684368170797825
 color:
   brandStrength: 0.8885143620427698
@@ -11,8 +10,12 @@ color:
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
+layout_spectrum: 0.8602331392467022
 name: Autograph Designed
 navigation:
   - name: About Us
     id: 66abc294-8f6b-4b7a-bf92-f77e0deb93f9
+    type: content
+  - name: The Work
+    id: 5eda17f6-b24d-4616-88d4-df6d982a433f
     type: content
