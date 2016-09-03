@@ -1,16 +1,16 @@
-typography_spectrum: 0.28684368170797825
+layout_spectrum: 0.04512421973049641
+typography_spectrum: 0.662494053831324
 color:
-  brandStrength: 0.8885143620427698
-  lightness: 0.8065472131129354
-  saturation: 0.049087923718616366
-  rhythmicContrast: 0.26997269596904516
+  brandStrength: 0.722338369814679
+  lightness: 0.8970166561193764
+  saturation: 0.16595451114699244
+  rhythmicContrast: 0.13293200498446822
   brandColors:
     - '#000000'
     - '#404040'
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
-layout_spectrum: 0.8602331392467022
 name: Autograph Designed
 navigation:
   - name: About Us
